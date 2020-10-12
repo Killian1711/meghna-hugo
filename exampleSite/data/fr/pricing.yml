@@ -42,7 +42,7 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Prénium +
+  - name: Premium +
     price: 666 €
     unit: moi
     services:
