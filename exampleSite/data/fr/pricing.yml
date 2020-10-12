@@ -30,14 +30,15 @@ pricing:
       label: Signup
       link: "#"
   - name: Gold
-    price: "$199"
-    unit: month
+    price: 250 €
+    unit: moi
     services:
     - 1GB Disk Space
     - 10 Email Account
     - Script Installer
     - 1 GB Storage
     - 10 GB Bandwidth
+    - 3 menus Uber eat / semaine
     - 24/7 Tech Support
     button:
       label: Signup
